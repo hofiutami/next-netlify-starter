@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Get started by to know me <code>pages/index.js</code>
         </p>
+        <button type='button'>
+          Buka Undangan
+        </button>
       </main>
 
       <Footer />
